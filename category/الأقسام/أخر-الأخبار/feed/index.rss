@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>أخر الأخبار &#8211; BUDGIE</title>
+	<atom:link href="https://www.budgiee.gq/category/%D8%A7%D9%84%D8%A3%D9%82%D8%B3%D8%A7%D9%85/%D8%A3%D8%AE%D8%B1-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.budgiee.gq</link>
+	<description>PROJECT</description>
+	<lastBuildDate>Sun, 05 Apr 2020 01:04:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>https://www.budgiee.gq/wp-content/uploads/2020/03/logo-150x150.png</url>
+	<title>أخر الأخبار &#8211; BUDGIE</title>
+	<link>https://www.budgiee.gq</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>خليك في البيت</title>
+		<link>https://www.budgiee.gq/2020/04/05/%d8%ae%d9%84%d9%8a%d9%83-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%8a%d8%aa/</link>
+					<comments>https://www.budgiee.gq/2020/04/05/%d8%ae%d9%84%d9%8a%d9%83-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%8a%d8%aa/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohamed Kamal]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2020 01:04:23 +0000</pubDate>
+				<category><![CDATA[أخر الأخبار]]></category>
+		<guid isPermaLink="false">https://www.budgiee.gq/?p=1189</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://www.budgiee.gq/2020/04/05/%d8%ae%d9%84%d9%8a%d9%83-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d9%8a%d8%aa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Budgie..The loveBird بادچي..الطائر المحب</title>
+		<link>https://www.budgiee.gq/2020/03/24/budgie-the-lovebird-%d8%a8%d8%a7%d8%af%da%86%d9%8a-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d8%a8/</link>
+					<comments>https://www.budgiee.gq/2020/03/24/budgie-the-lovebird-%d8%a8%d8%a7%d8%af%da%86%d9%8a-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d8%a8/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohamed Kamal]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2020 18:59:01 +0000</pubDate>
+				<category><![CDATA[أخر الأخبار]]></category>
+		<guid isPermaLink="false">https://www.budgiee.gq/?p=1147</guid>
+
+					<description><![CDATA[ بادچي بيقولك &#8220;خليك في البيت&#8221;.. علشان بيحبك وبيخاف عليك.. على الرغم انه بيحب الحركة والاستكشاف وفضوله عمره ما بيقف عند مرحلة.. إلا إنه دلوقتي بيدعم أمنك وسلامك أكتر بوجودك في البيت.. ومش بس كده.. جايبلك أفكار جميلة ممكن تعملها في الفترة اللي كلنا محتاجين فيها نكون &#8220;قد المسئولية.. وقد حبنا لذاتنا واللي حوالينا&#8221;&#8230; تقدر وانت [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.budgiee.gq/2020/03/24/budgie-the-lovebird-%d8%a8%d8%a7%d8%af%da%86%d9%8a-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d8%a8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
